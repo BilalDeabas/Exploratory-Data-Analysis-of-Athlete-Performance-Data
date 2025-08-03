@@ -52,6 +52,26 @@ This project uses data from **Kaggle: The Big Dataset of Ultra Marathon Running*
 
 ---
 
+## 📸 Visual Highlights
+
+Below are a few visualizations from the analysis:
+
+### 🔹 Distribution of Athlete Speeds
+<img src="images/image1.jpg" width="600"/>
+
+---
+
+### 🔹 Speed by Race Season (Boxplot)
+<img src="images/image2.jpg" width="600"/>
+
+---
+
+### 🔹 Trend of Average Speed Over Time
+<img src="images/image3.jpg" width="600"/>
+
+---
+
+
 ## 🚀 How to Run
 
 1. **Clone this repo**:
