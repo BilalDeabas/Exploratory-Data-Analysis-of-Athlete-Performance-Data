@@ -57,17 +57,17 @@ This project uses data from **Kaggle: The Big Dataset of Ultra Marathon Running*
 Below are a few visualizations from the analysis:
 
 ### 🔹 Distribution of Athlete Speeds
-<img src="images/image1.jpg" width="600"/>
+<img src="image1.png" width="600"/>
 
 ---
 
 ### 🔹 Speed by Race Season (Boxplot)
-<img src="images/image2.jpg" width="600"/>
+<img src="image2.png" width="600"/>
 
 ---
 
 ### 🔹 Trend of Average Speed Over Time
-<img src="images/image3.jpg" width="600"/>
+<img src="image3.png" width="600"/>
 
 ---
 
@@ -79,9 +79,9 @@ Below are a few visualizations from the analysis:
    git clone https://github.com/your-username/eda-athlete-performance.git
    cd eda-athlete-performance
 2.**Install dependencies**:
-```
+   ```
    pip install -r requirements.txt
-```
+   ```
 3.**Open the Jupyter notebook**:
-```
+   ```
    jupyter notebook eda_athlete_performance.ipynb
