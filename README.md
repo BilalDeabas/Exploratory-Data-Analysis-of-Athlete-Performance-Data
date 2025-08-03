@@ -1,6 +1,6 @@
 # 🏃‍♂️ Exploratory Data Analysis on Athlete Performance Data
-
-**Status**: Completed  |  **Tools**: Python, Pandas, Seaborn, Jupyter
+ 
+**Tools**: Python, Pandas, Seaborn, Jupyter
 
 ---
 
@@ -75,7 +75,7 @@ Below are a few visualizations from the analysis:
 ## 🚀 How to Run
 
 1. **Clone this repo**:
-   ```bash
+   ```
    git clone https://github.com/your-username/eda-athlete-performance.git
    cd eda-athlete-performance
 2.**Install dependencies**:
