@@ -48,5 +48,9 @@ The goal is to derive **insights from raw data** using **data cleaning, aggregat
    git clone https://github.com/your-username/eda-athlete-performance.git
    cd eda-athlete-performance
 2.**Install dependencies**:
- ```bash
+```
 pip install -r requirements.txt
+```
+3.**Open the Jupyter notebook**:
+```
+jupyter notebook eda_athlete_performance.ipynb
