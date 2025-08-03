@@ -33,6 +33,17 @@ The goal is to derive **insights from raw data** using **data cleaning, aggregat
 
 ---
 
+## 🗃️ Dataset Source
+
+This project uses data from **Kaggle: The Big Dataset of Ultra Marathon Running**.
+
+- 📂 Dataset: [The Big Dataset of Ultra Marathon Running](https://www.kaggle.com/datasets/aiaiaidavid/the-big-dataset-of-ultra-marathon-running)
+- 📎 Author: [David E. Aiello](https://www.kaggle.com/aiaiaidavid)
+- 📝 License: [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)
+
+> The dataset contains comprehensive information on ultra marathon athletes, races, distances, and average speeds. For more details, visit the original dataset page.
+
+
 ## 📊 Key Insights
 
 - Race seasons show **clear variation in average speed**, which may reflect seasonal conditions or training cycles.
