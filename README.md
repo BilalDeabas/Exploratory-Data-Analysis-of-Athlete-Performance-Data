@@ -49,8 +49,8 @@ The goal is to derive **insights from raw data** using **data cleaning, aggregat
    cd eda-athlete-performance
 2.**Install dependencies**:
 ```
-pip install -r requirements.txt
+   pip install -r requirements.txt
 ```
 3.**Open the Jupyter notebook**:
 ```
-jupyter notebook eda_athlete_performance.ipynb
+   jupyter notebook eda_athlete_performance.ipynb
