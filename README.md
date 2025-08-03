@@ -75,13 +75,14 @@ Below are a few visualizations from the analysis:
 ## 🚀 How to Run
 
 1. **Clone this repo**:
-   ```
-   git clone https://github.com/your-username/eda-athlete-performance.git
-   cd eda-athlete-performance
+```
+git clone https://github.com/your-username/eda-athlete-performance.git
+cd eda-athlete-performance
+```
 2.**Install dependencies**:
-   ```
-   pip install -r requirements.txt
-   ```
+```
+pip install -r requirements.txt
+```
 3.**Open the Jupyter notebook**:
-   ```
-   jupyter notebook eda_athlete_performance.ipynb
+```
+jupyter notebook eda_athlete_performance.ipynb
